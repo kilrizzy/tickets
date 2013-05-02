@@ -15,3 +15,27 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
+
+Route::resource('accounts', 'AccountsController');
+
+Route::resource('users', 'UsersController');
+
+Route::resource('permissions', 'PermissionsController');
+
+Route::resource('tickets', 'TicketsController');
+
+Route::resource('clients', 'ClientsController');
+
+Route::resource('addresses', 'AddressesController');
+
+Route::resource('statuses', 'StatusesController');
+
+Route::resource('priorities', 'PrioritiesController');
+
+Route::resource('logs', 'LogsController');
+
+Route::resource('files', 'FilesController');
+
+Route::resource('schedules', 'SchedulesController');
+
+Route::resource('schedule_times', 'Schedule_timesController');

@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"content",
+				"content_data"
+			],
+			[
+				"rating",
+				"rating_items"
+			],
+			[
+				"vid",
+				"video_url_parts"
+			],
+			[
+				"grade_",
+				"grade_html"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"repea",
+				"repeat-y"
+			],
+			[
+				"it",
+				"itinerary"
+			],
+			[
+				"border-top-",
+				"border-top-left-radius"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"rep",
+				"repeat-x"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"",
+				"Project: Add Folder"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/logic/app/config/app.php",
+		"/C/xampp/htdocs/logic/.gitignore",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/tickets/public/assets/js/main.js",
+		"/C/xampp/htdocs/tickets/public/assets/css/main.css",
+		"/C/xampp/htdocs/logic/composer.json",
+		"/C/xampp/htdocs/tickets/composer.json",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Jeff/Desktop/_info.php",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/index.php",
+		"/C/Visionline/H/Hotel ML/wp-content/themes/vlm/css/main.css",
+		"/C/Visionline/H/Home For Good Dogs/wp-content/plugins/vlm_shortcodes/vlm-shortcodes.php",
+		"/C/Visionline/B/Better Benefit Solutions/eveshammua/wp-config.php",
+		"/C/Visionline/D/DigaApiSites/PA Electrician/_diga/_inc_config.php",
+		"/C/Visionline/D/DigaApiSites/PA Electrician/_diga/_inc_functions.php",
+		"/C/Visionline/D/DigaApiSites/PA Electrician/_diga/sitemap.php",
+		"/C/Visionline/D/DigaApiSites/PA Electrician/.htaccess",
+		"/C/Visionline/P/Popcorn Love Stories/wp-content/themes/vlm/css/main.css",
+		"/C/Visionline/D/DigaApiSites/PA Electrician/_diga/test.php",
+		"/C/Visionline/H/Hotel ML/wp-content/themes/vlm/header.php",
+		"/C/Visionline/H/Hotel ML/wp-content/themes/vlm/page.php",
+		"/C/Visionline/H/Hotel ML/wp-content/themes/vlm/footer.php",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/ind3x.php",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/index 3.html",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/_info.php",
+		"/C/Visionline/S/Starmark Windows/_ext/inc_first.php",
+		"/C/Visionline/B/Bouari/SOZA/wp-content/plugins/vlm_liveperson/vlm-liveperson.php",
+		"/C/Visionline/H/Home For Good Dogs/wp-content/themes/vlm/css/main.css",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/inc_first.php",
+		"/C/Visionline/G/Gluutube/wp-content/themes/vlm/css/main.css",
+		"/C/Visionline/S/Starmark Windows/_ext/landing/cities.php",
+		"/C/Visionline/S/Starmark Windows/_ext/landing/counties.php",
+		"/C/Visionline/S/Starmark Windows/_ext/landing/index.php",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/list_locations.php",
+		"/C/Visionline/H/Hotel ML/wp-content/themes/vlm/functions.php",
+		"/C/Users/Jeff/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Visionline/D/DigaTemplates/application/controllers/system.php",
+		"/C/Visionline/D/DigaTemplates/application/controllers/api.php",
+		"/C/xampp/htdocs/aca/_patches/update_new_pr_yr_tgt.php",
+		"/C/xampp/htdocs/aca/core/application/models/systemmodel.php",
+		"/C/xampp/htdocs/aca/_patches/get_old_pr_yr_tgt.php",
+		"/C/xampp/htdocs/aca/core/application/controllers/system.php",
+		"/C/xampp/htdocs/aca/core/application/views/pages/yearend.php",
+		"/C/xampp/htdocs/pn/web.config",
+		"/C/xampp/htdocs/aca/.gitignore",
+		"/C/xampp/htdocs/aca/target.php",
+		"/C/xampp/htdocs/aca/test.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/aca/core/application/views/pages/account.php",
+		"/C/Visionline/A/ACA Prudent Investors/core/application/views/pages/yearend.php",
+		"/C/Visionline/A/ACA Prudent Investors/core/application/helpers/system_helper.php",
+		"/C/Visionline/A/ACA Prudent Investors/core/application/controllers/system.php",
+		"/C/Users/Jeff/Desktop/systemmodel.php",
+		"/C/Visionline/A/ACA Prudent Investors/core/application/controllers/ajax.php",
+		"/C/xampp/htdocs/aca/_patches/get_old_pr_yr_tg.php",
+		"/C/Visionline/H/Home For Good Dogs/wp-content/themes/vlm/js/jquery.cycle.all.js",
+		"/C/Visionline/H/Home For Good Dogs/wp-content/themes/vlm/footer.php",
+		"/C/Visionline/H/Home For Good Dogs/wp-content/themes/vlm/header.php",
+		"/C/xampp/htdocs/aca/core/application/views/pages/customer.php",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/blue_cms-front.php",
+		"/C/xampp/htdocs/aca/sql_update.php",
+		"/C/xampp/htdocs/aca/index.php",
+		"/C/xampp/htdocs/aca/core/application/config/database.php",
+		"/C/Visionline/S/Shore Hair Transplant Center/wp-content/themes/vlm/header.php",
+		"/C/Visionline/P/Popcorn Love Stories/wp-content/themes/vlm/functions.php",
+		"/C/Visionline/P/Popcorn Love Stories/wp-content/themes/vlm/header.php",
+		"/C/Visionline/S/Shore Hair Transplant Center/wp-content/themes/vlm/functions.php",
+		"/C/Visionline/H/Home For Good Dogs/wp-content/themes/vlm/functions.php",
+		"/C/Visionline/P/Popcorn Love Stories/wp-content/themes/vlm/page.php",
+		"/C/Visionline/P/Popcorn Love Stories/wp-content/themes/vlm/sidebar.php",
+		"/C/Visionline/R/Remodel Link/records_employees_access.php",
+		"/C/Visionline/R/Remodel Link/records.php",
+		"/C/Visionline/R/Remodel Link/inc_functions.php",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/settings 2.php",
+		"/C/xampp/htdocs/logic/app/views/fallacies/fallacy.blade.php",
+		"/C/Visionline/J/Jan L Inc/sites/all/themes/janlinc/js/script.js",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/contact.htm",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/index 2.html",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/php.ini",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/settings.php",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/starmarkwindows.com.txt",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/.htaccess",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/sitemap.xml",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/page.tpl.php",
+		"/C/Users/Jeff/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Jeff/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/Jeff/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/html.tpl.php",
+		"/C/xampp/htdocs/logic/app/filters.php",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/index.html",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/styles.css",
+		"/C/xampp/htdocs/logic/app/controllers/FallacyController.php",
+		"/C/xampp/htdocs/logic/app/views/front/home.blade.php",
+		"/C/xampp/htdocs/logic/README.md",
+		"/C/Visionline/R/Remodel Link/login_process.php",
+		"/C/Visionline/R/Remodel Link/inc_first.php",
+		"/C/Visionline/R/Remodel Link/inc_connect.php",
+		"/C/xampp/htdocs/logic/app/routes.php",
+		"/C/xampp/htdocs/logic/app/database/migrations/2013_04_26_200642_create_nickname_table.php",
+		"/C/xampp/htdocs/logic/app/models/Nickname.php",
+		"/C/xampp/htdocs/logic/app/models/Fallacy.php",
+		"/C/xampp/htdocs/logic/app/views/fallacies/nickname.blade.php",
+		"/C/xampp/htdocs/logic/app/database/migrations/2013_04_26_202404_edit_fallacies_table.php",
+		"/C/Visionline/A/Aiduss/index.html",
+		"/C/Visionline/G/Ginsey Projects/projects.php",
+		"/C/Visionline/G/Ginsey Projects/development.php",
+		"/C/Visionline/G/Ginsey Projects/styles/main.css",
+		"/C/Visionline/G/Ginsey Projects/development_data.php",
+		"/C/Visionline/G/Ginsey Projects/projects_data.php",
+		"/C/Visionline/G/Ginsey Projects/projects_edit_process.php",
+		"/C/Visionline/G/Ginsey Projects/development_edit_process.php",
+		"/C/Visionline/G/Ginsey Projects/development_edit.php",
+		"/C/Visionline/G/Ginsey Projects/projects_edit.php",
+		"/C/Visionline/A/A Womans Gift/admin_donors_data.php",
+		"/C/Visionline/A/A Womans Gift/admin_donors.php",
+		"/C/Visionline/A/A Womans Gift/admin_donor_profile7_process.php",
+		"/C/xampp/htdocs/logic/app/views/fallacies/fallacies.blade.php",
+		"/C/xampp/htdocs/logic/app/controllers/FrontController.php",
+		"/C/xampp/htdocs/logic/app/views/layouts/master.blade.php",
+		"/C/Visionline/A/A Womans Gift/includes/woman_panel.php",
+		"/C/Users/Jeff/AppData/Local/Temp/fz3temp-10/database.php",
+		"/C/Visionline/A/A Womans Gift/admin_donor_profile1_process.php",
+		"/C/Visionline/A/A Womans Gift/admin_donor_profile2_process.php",
+		"/C/Visionline/A/A Womans Gift/admin_donor_profile3_process.php",
+		"/C/Visionline/A/A Womans Gift/admin_donor_profile4_process.php",
+		"/C/Visionline/A/A Womans Gift/admin_donor_profile5_process.php",
+		"/C/Visionline/A/A Womans Gift/admin_donor_profile6_process.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"30",
+			"get_acct_payment_data",
+			"pr_yr_tgt",
+			"account_get_total_price",
+			"fade",
+			"cookie_lifetime",
+			"session.",
+			"example",
+			" https://sublime.wbond.net/testing/packages.json ",
+			"session",
+			"company",
+			"titles",
+			"6977",
+			"Permissions",
+			"to(",
+			"link",
+			"steve",
+			"Steve",
+			"label",
+			"li",
+			"li>",
+			"main",
+			"update_plugins",
+			"admin",
+			"featured",
+			"featuredItems",
+			"comment",
+			"default_socket_timeout",
+			"60",
+			"ceadb2",
+			"cart",
+			"recaptcha_area",
+			"captch",
+			"domain",
+			"mysql",
+			"db_url",
+			"https",
+			"sellleads",
+			"request",
+			"registerbt ",
+			"phone\"",
+			"mask-",
+			"55",
+			"email_from",
+			"email_replyto",
+			"$email_to",
+			"font-size",
+			"price",
+			"left",
+			"align",
+			"enqueue",
+			"head",
+			"ie",
+			"redirect",
+			"packet",
+			"max_input_time",
+			"encrypt",
+			"init.d",
+			"source",
+			"dashed",
+			"dotted",
+			"text-tran",
+			"h2",
+			"text-tran",
+			"views-row h6",
+			"h6",
+			".views-field-created",
+			"docket/completed",
+			"url(/",
+			"warning",
+			"FOUND",
+			".com",
+			"@",
+			"FOUND",
+			"cannot chdir to mailname dir forms: No such file or directory",
+			"@",
+			"found"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url(http://www.ginsey.com/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true
+}
